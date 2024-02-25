@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, Sema</h1>
+
 🔭 I’m currently working on Fullstack with Java.
-
 🌱 I’m currently learning Spring Boot and React.
-
 📝 https://medium.com/@semasahinbay  I regularly write articles on
-
 💬 Ask me about Java, Kotlin,Javascript,Html,Css and React.
-
 📫 How to reach me semasahinbay@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/semasahinbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semasahinbay" height="30" width="40" /></a>
