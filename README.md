@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, Sema</h1>
 
-🔭 I’m currently working on Fullstack with Java.
-🌱 I’m currently learning Spring Boot and React.
-📝 https://medium.com/@semasahinbay  I regularly write articles on
-💬 Ask me about Java, Kotlin,Javascript,Html,Css and React.
-📫 How to reach me semasahinbay@gmail.com
+🔭 I’m currently working on Fullstack with Java. <br>
+🌱 I’m currently learning Spring Boot and React.  <br>
+📝 https://medium.com/@semasahinbay  I regularly write articles on <br>
+💬 Ask me about Java, Kotlin,Javascript,Html,Css and React.  <br>
+📫 How to reach me semasahinbay@gmail.com  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
