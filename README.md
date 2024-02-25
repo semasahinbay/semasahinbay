@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Fullstack with Java. <br>
 🌱 I’m currently learning Spring Boot and React.  <br>
-📝 https://medium.com/@semasahinbay  I regularly write articles on <br>
+📝 I regularly write articles on  https://medium.com/@semasahinbay   <br>
 💬 Ask me about Java, Kotlin,Javascript,Html,Css and React.  <br>
 📫 How to reach me semasahinbay@gmail.com  <br>
 
