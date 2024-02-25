@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Spring Boot and React.
 
-📝 https://medium.com/@semasahinbay  -> I regularly write articles on
+📝 https://medium.com/@semasahinbay  I regularly write articles on
 
 💬 Ask me about Java, Kotlin,Javascript,Html,Css and React.
 
