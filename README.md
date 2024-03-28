@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Sema</h1>
+<h1 align="center">Hi 👋, I'm Sema</h1>
 
 🔭 I’m currently working on Fullstack with Java. <br>
 🌱 I’m currently learning Spring Boot and React.  <br>
